@@ -1,0 +1,14 @@
+{
+  "name": "personal-site",
+  "version": "0.1.0",
+  "private": true,
+  "description": "个人网站",
+  "scripts": {
+    "release": "node scripts/release.mjs",
+    "version:show": "node -p \"require('./package.json').version\""
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
+
