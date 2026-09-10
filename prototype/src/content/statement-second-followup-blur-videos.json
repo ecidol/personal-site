@@ -1,0 +1,46 @@
+{
+  "01": {
+    "src": "/assets/video/statement-second-followup-blur-01-user-1788862966232.mov",
+    "kind": "MOV 视频",
+    "mime": "video/quicktime",
+    "width": 3840,
+    "height": 2160,
+    "ratio": "16:9",
+    "duration": 17.4,
+    "size": 32564223,
+    "originalName": "copy_FB13D6A2-BD42-4B34-A3A6-2C9F32F5DD1D.MOV"
+  },
+  "02": {
+    "src": "/assets/video/statement-second-followup-blur-02-user-1788863185253.mp4",
+    "kind": "MP4 视频",
+    "mime": "video/mp4",
+    "width": 960,
+    "height": 720,
+    "ratio": "4:3",
+    "duration": 21.477052,
+    "size": 7034034,
+    "originalName": "POLARIS_3933889163761070405-video-0.MP4"
+  },
+  "03": {
+    "src": "/assets/video/statement-second-followup-blur-03-user-1788863441424.mp4",
+    "kind": "MP4 视频",
+    "mime": "video/mp4",
+    "width": 960,
+    "height": 720,
+    "ratio": "4:3",
+    "duration": 14.045215,
+    "size": 2680249,
+    "originalName": "5e6cd72917374cc51d39ee5e0150d0ab-video-0.MP4"
+  },
+  "04": {
+    "src": "/assets/video/statement-second-followup-blur-04-user-1788863772367.mov",
+    "kind": "MOV 视频",
+    "mime": "video/quicktime",
+    "width": 1280,
+    "height": 720,
+    "ratio": "16:9",
+    "duration": 14.266667,
+    "size": 4621088,
+    "originalName": "copy_0239A518-BE24-498A-A3B6-5DBBD2E370A2.MOV"
+  }
+}

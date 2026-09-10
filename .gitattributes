@@ -1,0 +1,4 @@
+prototype/public/assets/video/*.mp4 filter=lfs diff=lfs merge=lfs -text
+prototype/public/assets/video/*.mov filter=lfs diff=lfs merge=lfs -text
+prototype/public/assets/video/*.webm filter=lfs diff=lfs merge=lfs -text
+prototype/public/assets/video/*.ogv filter=lfs diff=lfs merge=lfs -text

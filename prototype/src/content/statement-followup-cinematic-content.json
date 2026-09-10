@@ -1,0 +1,34 @@
+{
+  "heading": "🌈JURNEOS | 我希望你走出去...遇见爱情",
+  "subtitle": "社交旅拍",
+  "items": [
+    {
+      "key": "01",
+      "id": "人少一点更舒服",
+      "title": "关系反而更容易有温度",
+      "location": "4人一车8人局",
+      "alt": "Snowy mountains"
+    },
+    {
+      "key": "02",
+      "id": "高品质社交环境",
+      "title": "干净的圈子本该属于你",
+      "location": "价格也是一种筛选",
+      "alt": "Desert dunes"
+    },
+    {
+      "key": "03",
+      "id": "懂分寸感的服务",
+      "title": "需要的时候我们都在场",
+      "location": "顶奢级服务",
+      "alt": "Coastal view"
+    },
+    {
+      "key": "04",
+      "id": "别再隔着屏幕聊",
+      "title": "风景和你们都是“电影”",
+      "location": "走出去才有爱情",
+      "alt": "City skyline"
+    }
+  ]
+}

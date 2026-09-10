@@ -13,11 +13,12 @@ function stop(message) {
 
 function run(command, args, options = {}) {
   try {
-    return execFileSync(command, args, {
+    const output = execFileSync(command, args, {
       cwd: process.cwd(),
       encoding: "utf8",
       stdio: options.capture ? ["ignore", "pipe", "pipe"] : "inherit",
-    }).trim();
+    });
+    return typeof output === "string" ? output.trim() : "";
   } catch (error) {
     if (options.capture) {
       return null;
@@ -74,8 +75,8 @@ if (!worktreeStatus) {
 }
 
 console.log("\n正在执行已有的测试与构建……");
-run("npm", ["run", "test", "--if-present"]);
-run("npm", ["run", "build", "--if-present"]);
+run("npm", ["--prefix", "prototype", "run", "test:sites"]);
+run("npm", ["--prefix", "prototype", "run", "build"]);
 
 const packagePath = new URL("../package.json", import.meta.url);
 const packageJson = JSON.parse(readFileSync(packagePath, "utf8"));
@@ -92,6 +93,19 @@ const nextVersion = next.join(".");
 
 packageJson.version = nextVersion;
 writeFileSync(packagePath, `${JSON.stringify(packageJson, null, 2)}\n`);
+
+const appPackagePath = new URL("../prototype/package.json", import.meta.url);
+const appPackageJson = JSON.parse(readFileSync(appPackagePath, "utf8"));
+appPackageJson.version = nextVersion;
+writeFileSync(appPackagePath, `${JSON.stringify(appPackageJson, null, 2)}\n`);
+
+const appLockPath = new URL("../prototype/package-lock.json", import.meta.url);
+const appLockJson = JSON.parse(readFileSync(appLockPath, "utf8"));
+appLockJson.version = nextVersion;
+if (appLockJson.packages?.[""]) {
+  appLockJson.packages[""].version = nextVersion;
+}
+writeFileSync(appLockPath, `${JSON.stringify(appLockJson, null, 2)}\n`);
 
 const changelogPath = new URL("../CHANGELOG.md", import.meta.url);
 const oldChangelog = readFileSync(changelogPath, "utf8");

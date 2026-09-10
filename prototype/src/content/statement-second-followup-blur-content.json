@@ -1,0 +1,28 @@
+{
+  "cards": [
+    {
+      "id": "01",
+      "eyebrow": "01 / DALI",
+      "title": "大理 · 见美",
+      "description": "看见中国人的审美"
+    },
+    {
+      "id": "02",
+      "eyebrow": "02 / TENGCHONG",
+      "title": "腾冲 · 触动",
+      "description": "触摸时间留下的温度"
+    },
+    {
+      "id": "03",
+      "eyebrow": "03 / MANGSHI",
+      "title": "芒市 · 尝境",
+      "description": "尝到边地真实的生活"
+    },
+    {
+      "id": "04",
+      "eyebrow": "04 / XISHUANGBANNA",
+      "title": "西双版纳 · 闻生",
+      "description": "闻见雨林蓬勃的生命"
+    }
+  ]
+}

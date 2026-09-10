@@ -1,0 +1,86 @@
+{
+  "tiers": [
+    {
+      "id": "self",
+      "name": "正价",
+      "currency": "RMB",
+      "price": "14999",
+      "interval": "正式拍摄前1周",
+      "description": "订金2000到目的地后,行程开始之前补齐",
+      "highlight": false,
+      "features": [
+        {
+          "id": "self-1",
+          "name": "每日出行礼包",
+          "included": true
+        },
+        {
+          "id": "self-2",
+          "name": "24小时管家服务",
+          "included": true
+        },
+        {
+          "id": "self-3",
+          "name": "每日10张精修+底片全送+5分钟多段未剪辑视频（包含无人机）",
+          "included": true
+        },
+        {
+          "id": "self-4",
+          "name": "包含全景点门票",
+          "included": true
+        },
+        {
+          "id": "self-5",
+          "name": "不可要求同房间室友属性",
+          "included": true
+        },
+        {
+          "id": "self-6",
+          "name": "不可提前选车座位",
+          "included": true
+        }
+      ]
+    },
+    {
+      "id": "team",
+      "name": "早鸟价",
+      "currency": "RMB",
+      "price": "12999",
+      "interval": "更早时间预定",
+      "description": "订金2000到目的地后,行程开始之前补齐",
+      "highlight": true,
+      "features": [
+        {
+          "id": "team-1",
+          "name": "每日出行礼包",
+          "included": true
+        },
+        {
+          "id": "team-2",
+          "name": "24小时管家服务",
+          "included": true
+        },
+        {
+          "id": "team-3",
+          "name": "每日10张精修+底片全送+5分钟多段未剪辑视频（包含无人机）",
+          "included": true
+        },
+        {
+          "id": "team-4",
+          "name": "包含全景点门票",
+          "included": true
+        },
+        {
+          "id": "team-5",
+          "name": "可要求同房间室友属性",
+          "included": true
+        },
+        {
+          "id": "team-6",
+          "name": "可提前选车座位",
+          "included": true
+        }
+      ]
+    }
+  ]
+}

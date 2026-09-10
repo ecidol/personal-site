@@ -2,6 +2,8 @@
 
 这是个人网站项目。源代码将保存在 GitHub 私有仓库中；网站连接 Vercel 后，`main` 分支的每次推送都会自动更新正式网站。
 
+网站应用位于 `prototype/`；Vercel 项目名为 `jurneos`，Root Directory 使用 `prototype`，生产构建输出为 `dist/client`。视频素材使用 Git LFS 管理。
+
 ## 日常更新
 
 完成内容或代码修改后，在项目目录运行：
@@ -35,4 +37,3 @@ npm run version:show
 
 - `main`：正式版本；推送后 Vercel 自动更新公开网站。
 - 其他分支：测试版本；Vercel 会生成独立的预览网址，不影响正式网站。
-

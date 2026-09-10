@@ -1,0 +1,42 @@
+{
+  "01": {
+    "src": "/assets/images/statement-followup-cinematic-01-user-1788876040071.png",
+    "kind": "PNG 图片",
+    "mime": "image/png",
+    "width": 1652,
+    "height": 952,
+    "ratio": "59:34",
+    "size": 3254099,
+    "originalName": "19FA838E-F60B-4917-963E-E81B5A06B770.PNG"
+  },
+  "02": {
+    "src": "/assets/images/statement-followup-cinematic-02-user-1788878415371.jpg",
+    "kind": "JPG 图片",
+    "mime": "image/jpeg",
+    "width": 3024,
+    "height": 2810,
+    "ratio": "1512:1405",
+    "size": 3469258,
+    "originalName": "IMG_4136.jpg"
+  },
+  "03": {
+    "src": "/assets/images/statement-followup-cinematic-03-user-1788876163082.jpg",
+    "kind": "JPG 图片",
+    "mime": "image/jpeg",
+    "width": 1320,
+    "height": 690,
+    "ratio": "44:23",
+    "size": 272449,
+    "originalName": "IMG_4455.jpg"
+  },
+  "04": {
+    "src": "/assets/images/statement-followup-cinematic-04-user-1788876971653.jpg",
+    "kind": "JPG 图片",
+    "mime": "image/jpeg",
+    "width": 1320,
+    "height": 1760,
+    "ratio": "3:4",
+    "size": 450896,
+    "originalName": "IMG_4471.JPG"
+  }
+}

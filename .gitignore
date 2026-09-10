@@ -20,3 +20,45 @@ build/
 *.log
 .DS_Store
 
+# Local helper material that is not part of the website
+skills/
+
+# Keep superseded local uploads on this Mac without publishing them.
+prototype/public/assets/video/.intro-previous.mp4
+prototype/public/assets/video/.intro-meta-previous.json
+prototype/.design-qa/
+prototype/qa/
+prototype/public/assets/images/*-user-*
+prototype/public/assets/video/*-user-*
+
+# Current user-selected website assets
+!prototype/public/assets/images/about-1-user-1788513706226.png
+!prototype/public/assets/images/about-blank-user-1788613725205.png
+!prototype/public/assets/images/about-lower-background-user-1788689879457.jpg
+!prototype/public/assets/images/about-lower-card-user-1788692285621.jpg
+!prototype/public/assets/images/about-lower-next-background-user-1788712738265.jpg
+!prototype/public/assets/images/statement-followup-blank-user-1788806047184.png
+!prototype/public/assets/images/statement-followup-cinematic-01-user-1788876040071.png
+!prototype/public/assets/images/statement-followup-cinematic-02-user-1788878415371.jpg
+!prototype/public/assets/images/statement-followup-cinematic-03-user-1788876163082.jpg
+!prototype/public/assets/images/statement-followup-cinematic-04-user-1788876971653.jpg
+!prototype/public/assets/images/timeline-blank-eight-image-user-1788808284105.jpg
+!prototype/public/assets/images/timeline-blank-five-background-user-1788766303314.png
+!prototype/public/assets/images/timeline-blank-four-image-user-1788767515854.jpg
+!prototype/public/assets/images/timeline-blank-one-background-user-1788727358243.jpg
+!prototype/public/assets/images/timeline-blank-six-dali-user-1788799750415.jpg
+!prototype/public/assets/images/timeline-blank-six-mangshi-user-1788799479012.jpg
+!prototype/public/assets/images/timeline-blank-six-reunion-user-1788800221316.jpg
+!prototype/public/assets/images/timeline-blank-six-tengchong-user-1788799341665.jpg
+!prototype/public/assets/images/timeline-blank-six-xishuangbanna-user-1788799929224.jpg
+!prototype/public/assets/images/timeline-blank-six-yangliucun-user-1788799125963.jpg
+!prototype/public/assets/images/timeline-blank-six-zhemoshan-user-1788799055307.jpg
+!prototype/public/assets/images/timeline-blank-three-image-user-1788767977623.jpg
+!prototype/public/assets/images/timeline-blank-two-image-user-1788727085315.jpg
+!prototype/public/assets/video/about-one-user-1788803757880.mp4
+!prototype/public/assets/video/footer-panel-user-1788593516216.mp4
+!prototype/public/assets/video/statement-second-followup-blur-01-user-1788862966232.mov
+!prototype/public/assets/video/statement-second-followup-blur-02-user-1788863185253.mp4
+!prototype/public/assets/video/statement-second-followup-blur-03-user-1788863441424.mp4
+!prototype/public/assets/video/statement-second-followup-blur-04-user-1788863772367.mov
+!prototype/public/assets/video/timeline-video-blank-user-1788804916224.mp4

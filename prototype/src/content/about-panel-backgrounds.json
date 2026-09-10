@@ -1,0 +1,52 @@
+{
+  "02": {
+    "src": "/assets/images/about-2.avif",
+    "kind": "AVIF 图片",
+    "mime": "image/avif",
+    "width": 1536,
+    "height": 882,
+    "ratio": "256:147",
+    "size": 41586,
+    "originalName": "about-2.avif"
+  },
+  "03": {
+    "src": "/assets/images/about-3.avif",
+    "kind": "AVIF 图片",
+    "mime": "image/avif",
+    "width": 1536,
+    "height": 882,
+    "ratio": "256:147",
+    "size": 90230,
+    "originalName": "about-3.avif"
+  },
+  "04": {
+    "src": "/assets/images/about-2.avif",
+    "kind": "AVIF 图片",
+    "mime": "image/avif",
+    "width": 1536,
+    "height": 882,
+    "ratio": "256:147",
+    "size": 41586,
+    "originalName": "about-2.avif"
+  },
+  "05": {
+    "src": "/assets/images/about-3.avif",
+    "kind": "AVIF 图片",
+    "mime": "image/avif",
+    "width": 1536,
+    "height": 882,
+    "ratio": "256:147",
+    "size": 90230,
+    "originalName": "about-3.avif"
+  },
+  "06": {
+    "src": "/assets/images/about-2.avif",
+    "kind": "AVIF 图片",
+    "mime": "image/avif",
+    "width": 1536,
+    "height": 882,
+    "ratio": "256:147",
+    "size": 41586,
+    "originalName": "about-2.avif"
+  }
+}

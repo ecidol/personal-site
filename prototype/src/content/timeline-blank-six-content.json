@@ -1,0 +1,73 @@
+{
+  "header": {
+    "visible": true,
+    "eyebrow": "JURNEOS · 如影随形",
+    "title": "为每一位同行者，留下属于自己的山河电影",
+    "intro": "真正稀缺的从来不是价格，而是那些只在少数人之间发生的时刻"
+  },
+  "items": [
+    {
+      "id": "dali",
+      "title": "大理 · 见美",
+      "description": "看见中国人的审美\n\n从苍山的风开始。\n见白墙、旧院、茶烟、染布与光。\n\n东方之美，从不喧哗。\n它藏在日常，也藏在分寸。",
+      "icon": "Landmark",
+      "titleVisible": true,
+      "descriptionVisible": true,
+      "logoVisible": true
+    },
+    {
+      "id": "zhemoshan",
+      "title": "腾冲 · 触动",
+      "description": "触摸时间留下的温度\n\n循风而西，入火山与温泉。\n\n触摸旧宅的木纹，\n也触摸一门手艺、一段侨乡往事、\n一个地方被岁月留下的温度。\n\n时间在这里，不再匆忙。",
+      "icon": "Mountain",
+      "titleVisible": true,
+      "descriptionVisible": true,
+      "logoVisible": true
+    },
+    {
+      "id": "yangliucun",
+      "title": "芒市 · 尝境",
+      "description": "尝到边地真实的生活\n\n再往西南，风物渐异。\n\n一盏酸茶，一席边地家宴，\n不同民族的食物、香料与故事，\n在一张桌上相遇。\n\n尝的不是珍馐，\n而是一方土地真正的滋味。",
+      "icon": "TentTree",
+      "titleVisible": true,
+      "descriptionVisible": true,
+      "logoVisible": true
+    },
+    {
+      "id": "tengchong",
+      "title": "临沧 · 听古",
+      "description": "听见山河深处的回声\n\n进入更深的山。\n\n火塘燃起，木鼓响起，\n古老的故事仍在人与人之间传递。\n\n有些文明写在书里，\n有些文明，仍活在山川之间。",
+      "icon": "Castle",
+      "titleVisible": true,
+      "descriptionVisible": true,
+      "logoVisible": true
+    },
+    {
+      "id": "mangshi",
+      "title": "西双版纳 · 闻生",
+      "description": "闻见雨林蓬勃的生命\n\n旅程的最后，进入雨林。\n\n闻泥土、古木、茶、香料与雨后的水汽。\n\n不再追赶，不再喧闹。\n\n让沉睡已久的感官，\n重新被山河唤醒。",
+      "icon": "Pyramid",
+      "titleVisible": true,
+      "descriptionVisible": true,
+      "logoVisible": true
+    },
+    {
+      "id": "xishuangbanna",
+      "title": "酒店",
+      "description": "出片夯服务好房间大.携程4-5星，民宿同级别",
+      "icon": "TowerControl",
+      "titleVisible": true,
+      "descriptionVisible": true,
+      "logoVisible": true
+    },
+    {
+      "id": "reunion",
+      "title": "出行",
+      "description": "腾势D9或以上7座4人一车，全程无脑出行，24小时管家服务",
+      "icon": "TowerControl",
+      "titleVisible": true,
+      "descriptionVisible": true,
+      "logoVisible": true
+    }
+  ]
+}
